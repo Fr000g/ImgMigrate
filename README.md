@@ -1,5 +1,7 @@
 # Image Migration Tool
 
+⚠️This is a a toy project, not for industrial usage, skopeo is a more suitable way
+
 ## Background
 
 A simple tool to migrate multi-arch images to local storage or private registry after tagging.
