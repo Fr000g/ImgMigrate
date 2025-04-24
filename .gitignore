@@ -23,3 +23,15 @@ go.work.sum
 
 # env file
 .env
+
+# other files
+*.tar
+*.tar.gz
+.DS_Store
+.idea/
+*.exe
+imgbuild
+output/
+bin/
+.vscode/
+*.log
